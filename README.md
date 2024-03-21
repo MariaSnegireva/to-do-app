@@ -20,15 +20,6 @@ This repository contains the implementation for loading todos in a simple Todo A
 - Automatically hid the notification after 3 seconds.
 - The notification is hidden before any subsequent API requests.
 
-### Directory Structure
-
-public: Contains the HTML template and favicon.
-src:
-components: Contains React components used in the application.
-utils: Contains utility functions and modules.
-fetchClient.ts: Module for making API requests using the fetch API.
-App.tsx: Main component containing the markup and logic for the Todo App.
-
 #### [DEMO LINK](https://mariasnegireva.github.io/to-do-app/)
 
 #### Instructions to Run the Application
